@@ -12,3 +12,15 @@ Used AlphaVantage_Historical_StockData_APIcall_2020_24.ipynb notebook to output 
 Pushed changes
 
 **Thursday, August 29th
+
+Created Preliminary Folder Structure for Stock Market Data by Sub-Sector and Year(Covid/Post-Covid), for the Yearspan of 2020-2024
+
+Developed an Idea for a Stock Data API Call Workflow, using a Pipeline
+
+Created a Stock Market Alpha Vantage API Call Pipeline for Downloading Stock Market Data/Symbols by Stock Market Sub-Sector as .csv extensions in the "ALL_STOCKMARKET_DATA_2020_24" Folder
+
+Pushed changes
+
+Next Steps: SWOT, AI Risk Analysis, PMP: Workflow, Assignments
+
+

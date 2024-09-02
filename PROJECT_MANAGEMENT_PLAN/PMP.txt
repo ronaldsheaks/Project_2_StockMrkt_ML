@@ -1,0 +1,120 @@
+**PROJECT 2 - PROJECT MANAGEMENT PLAN
+
+
+
+**DEADLINE: WEDNESDAY SEPTEMBER 11TH, 2024
+
+
+
+**1.)SWOT(DONE)
+
+
+
+**2.) DATA ACQUISITION AND MANAGEMENT(DONE)
+
+
+
+DOWNLOAD STOCK DATA VIA API AND CREATE A FOLDER HIERARCHY STRUCTURE
+
+CREATE A PIPELINE VIA JUPYTER TO STREAMLINE PROCESS
+
+
+
+**3.) DATA PROCESSING AND FORMATTING
+
+
+
+CONCATENATE SUB SECTOR DATASETS INTO A COMPREHENSIVE .CSV FILE(DONE - GHOST)
+
+CALCULATE PERCENT CHANGE AS A BINARY AND ADD AS A COLUMN/FEATURE TO COMPREHENSIVE .CSV
+
+CALCULATE MOVING AVERAGE AND ADD AS A COLUMN/AVERAGE TO COMPREHENSIVE .CSV 
+
+SCALE DATA 
+
+CREATE A TRAIN/TEST/SPLIT
+
+
+
+**4.) DATA ANALYSIS
+
+
+
+RUN ML MODELS TO DETERMINE STOCK MARKET OUTCOMES
+
+CONSIDER:
+
+**Logistic Regression: 
+
+Since you've already calculated the percentage change as a binary (likely representing if the stock will go up or down), Logistic Regression is a straightforward choice. It's particularly useful for binary classification problems and will help you understand the relationship between your features (e.g., moving averages) and the binary target.
+
+**Support Vector Machines (SVM): 
+
+SVMs are good for classification tasks, especially when the data isn't linearly separable. They can capture more complex relationships in your data, especially if you use kernel tricks (like the RBF kernel). SVMs might give you a more nuanced decision boundary compared to Logistic Regression.
+
+**Random Forest: 
+
+This is an ensemble method that works well for classification tasks and can handle a large number of features. It’s robust to overfitting, especially with a lot of data, and can give you insights into feature importance, which is useful for understanding what drives stock price changes.
+
+**K-Nearest Neighbors (KNN): 
+
+KNN is a non-parametric method that could be useful as a baseline model. It’s simple and effective for small datasets, though it can be computationally expensive with larger ones. It might not perform as well as other models but could provide a good comparison point.
+
+**Gradient Boosting Machines (GBM) or XGBoost: 
+
+These are more advanced ensemble techniques that often perform well in predictive tasks. They build models iteratively, correcting the mistakes of previous models, which can lead to high accuracy.
+
+
+**Model Selection and Training: 
+
+Choose a few of these models to train on your data. Start with simpler models like Logistic Regression and KNN as baselines and then move on to more complex models like Random Forest and Gradient Boosting.
+
+**Model Evaluation: 
+
+After training, evaluate your models using metrics like accuracy, precision, recall, F1 score, and ROC-AUC, depending on what you find most relevant. Cross-validation can also be a good technique to ensure your model generalizes well.
+
+**Feature Engineering: 
+
+Consider adding more features if you think it could help. For example, you might include technical indicators like RSI, Bollinger Bands, or MACD.
+
+**Hyperparameter Tuning: 
+
+Use techniques like Grid Search or Random Search to optimize the hyperparameters of your models, particularly for SVMs, Random Forest, and Gradient Boosting models.
+
+**Model Interpretation: 
+
+Look at feature importance from models like Random Forest or XGBoost to understand which factors are most influential in predicting stock price changes.
+
+
+
+**5.) DATA VISUALIZATION
+
+
+
+REPRESENT THE ML MODELS IN GRAPHS, CHARTS AND MATRICES, THEN INTERPRET
+
+
+
+**6.) SUMMARIZE FINDINGS
+
+
+
+GENERATE AN EXECUTIVE SUMMARY OF FINDINGS
+
+
+
+**7.) CREATE PRESENTATION OF FINDINGS
+
+
+
+GATHER DATA VISUALIZATIONS, REPORTS, AND ASSOCIATED FINDINGS AND CREATE A PRESENTATION
+
+
+
+**8.) PRESENT 
+
+GO OVER WHICH SLIDES EACH COLLABORATOR WILL PRESENT... PRESENT
+ 
+
+
+

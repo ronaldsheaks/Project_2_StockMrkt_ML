@@ -1,0 +1,50 @@
+(Current Day Close - Prior Day Close Value)/Prior Day Close 
+
+Measures Change, Price Increases or Decreases.
+
+Moving Average…
+
+Predictors….
+
+Moving Average over the last week… Prior to change…
+
+Relative Strength Index… 
+
+Increase 1%… Target = Price increase > 1% or 0
+
+Anytime you want to make a profit
+
+Classification problem, boolean
+
+Graphs
+
+Build Features, so moving averages are calculated as of prior day.
+
+Don’t include todays close price in your average
+
+Classification… NO REGRESSION
+
+Back test…Time Series, inflection
+
+Recent data for Nvidia types..
+
+Do we randomize? 
+
+Standardize $ value
+
+Over 0% is an increase moving average hypothetical Nvidia , around 40$
+
+Look at percentage change and create a feature…
+
+Features must be standardized in such a way that they, they need to be on the same scale, balance, scalability…
+
+Dollar Values…
+
+Percentages… Comparable by tickers/symbology…
+
+Moving avg, 5 days divded by prior days or max open price, calculation 
+
+Binary, profit, or no profit, convert features to percentages, random sample(Forest?)
+
+Aggregate features, train test.
+Calculate percent change and making that a binary, for classification.

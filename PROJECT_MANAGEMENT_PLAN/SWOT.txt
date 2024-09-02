@@ -1,0 +1,32 @@
+OSU AI Bootcamp – Project 2 – Project Management Plan  
+
+ 
+ 
+SWOT – Strengths Weaknesses Opportunities and Threats 
+
+ 
+ 
+Strengths -  
+
+Ryan – PM, Formatting, GIT, ChatGPT, Data Formatting, Data Acquisition, Ethics, Statistics, ML, Punctual, Work Ethic, Willing, Easy going, Realistic, Efficient 
+ 
+Ronald – Resilience, Data Tech, Data Analysis, Stats, Ethics, Work Ethic, ChatGPT, Data Acquisition, Data Management, GIT, Open Minded – Thinks out the box, PM, Willing, Optimistic, Critical Thinking 
+ 
+Weaknesses -  
+ 
+Ryan – Overthinking, Slightly Manic, tendency to crash, Perfectionism, Shy, Not Adept to Stock Market 
+ 
+Ronald – Overthinking, Mania, tendency to crash, tendency to go Rogue, Invested, Not Adept to Stock Market 
+ 
+Opportunities- 
+ 
+Learn how to Apply ML in a real world application. Become Wealthy. Leverage Data/Analysis to Predict Outcomes/Make Future Decisions. Develop Understand of AI and Ethics.  
+ 
+Enhance Predictive Accuracy, Long term/short term analysis, contribute to financial research. Collaborate with industry experts.  
+ 
+Threats –  
+
+We could Crash the Stock Market. Building an inferior AI. Bad predictions, negative unintentional consequences. We could overfit the Model and have a Bias Model. Limited AI Access. AI “Black Box”. Burn out, falling behind schedule. Processor Overload, computer crash. Intellectual Property (OSU). 
+ 
+ 
+ 

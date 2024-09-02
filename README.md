@@ -50,4 +50,19 @@ Pushed changes
 
 Next Steps: SWOT, AI Risk Analysis, PMP: Workflow, Assignments
 
+Concatenated IT_SECTOR Data, with Ticker Symbols, did SWOT
+
+**Friday, August 29th
+
+Calculated Moving, Added Column with Stats
+
+Scaled Data with Standard Scaler
+
+Added PROJECT_MANAGEMENT to root
+
+Added SWOT, PMP, and INSTRUCTOR_NOTES .txt
+
+
+
+
 

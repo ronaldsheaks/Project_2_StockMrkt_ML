@@ -48,3 +48,78 @@ Binary, profit, or no profit, convert features to percentages, random sample(For
 
 Aggregate features, train test.
 Calculate percent change and making that a binary, for classification.
+
+**Change in volume
+
+**Additional Variables
+
+**Relative Strength Index…
+
+**Technical indicators
+
+Technical indicators are mathematical calculations based on historical price, volume, or open interest data, used by traders and analysts to predict future price movements in financial markets. They are key tools in technical analysis, which focuses on price patterns, trends, and signals derived from market activity, rather than the intrinsic value of the asset.
+
+There are many types of technical indicators, each providing different insights about market trends, momentum, volatility, and volume. These indicators are often used to help traders make decisions about when to enter or exit a trade.
+
+**Categories of Technical Indicators:
+Trend Indicators: Used to determine the direction of the market (uptrend, downtrend, or sideways).
+Examples: Moving Averages (SMA, EMA), Average Directional Index (ADX), Parabolic SAR.
+Momentum Indicators: Measure the speed of price movement or strength of a trend. These are often used to identify overbought or oversold conditions.
+Examples: Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), Stochastic Oscillator.
+Volatility Indicators: Measure the magnitude of price fluctuations over a specific time period, often helping traders assess risk.
+Examples: Bollinger Bands, Average True Range (ATR), Volatility Index (VIX).
+Volume Indicators: Show the strength of price movements based on trading volume, helping traders understand market activity behind price moves.
+Examples: On-Balance Volume (OBV), Chaikin Money Flow (CMF), Volume-Weighted Average Price (VWAP).
+Support and Resistance Levels: Used to identify price levels where an asset typically reverses direction or experiences difficulty moving beyond.
+Examples: Fibonacci Retracement, Pivot Points, Trendlines.
+Popular Technical Indicators:
+Moving Average (MA):
+Simple Moving Average (SMA): The average price over a specified period of time.
+Exponential Moving Average (EMA): Gives more weight to recent prices, making it more responsive to recent changes.
+Use: Identifies trends and potential reversals by smoothing out price data.
+Relative Strength Index (RSI):
+A momentum oscillator that measures the speed and change of price movements. Values range from 0 to 100.
+Use: Helps identify overbought (RSI > 70) or oversold (RSI < 30) conditions.
+Moving Average Convergence Divergence (MACD):
+Measures the difference between two moving averages (usually the 12-period EMA and the 26-period EMA). It also has a signal line, which is a 9-period EMA of the MACD line.
+Use: Helps spot changes in momentum, potential reversals, and trends.
+Bollinger Bands:
+Composed of a moving average and two standard deviation lines plotted above and below the moving average.
+Use: Indicates volatility. When the bands expand, volatility is increasing; when they contract, volatility is decreasing.
+Stochastic Oscillator:
+A momentum indicator that compares a particular closing price to a range of its prices over a certain period.
+Use: Identifies overbought and oversold conditions, much like the RSI.
+Average True Range (ATR):
+Measures market volatility by analyzing the range of price movements over a set period.
+Use: Helps assess the volatility of an asset, providing insights on potential price swings.
+On-Balance Volume (OBV):
+A volume-based indicator that adds or subtracts volume based on whether the price closed higher or lower than the previous day.
+Use: Helps confirm price trends by analyzing the relationship between volume and price movements.
+Parabolic SAR:
+Used to determine the direction of a trend and potential points of reversal.
+Use: Places dots above or below the price chart to indicate potential stop-and-reverse levels.
+Fibonacci Retracement:
+Based on Fibonacci sequence ratios, this indicator is used to predict possible support and resistance levels.
+Use: Helps identify potential reversal points in a trending market.
+Volume-Weighted Average Price (VWAP):
+Calculates the average price weighted by volume throughout the trading day.
+Use: Helps traders identify the true average price of an asset, often used for confirming trends and entering trades.
+How Technical Indicators Are Used:
+Trend Identification: Many traders use moving averages and trendlines to identify the direction of the market and ride a trend.
+Momentum Analysis: Oscillators like RSI or MACD are used to gauge the strength of a trend and spot potential reversals.
+Volatility Measures: Volatility indicators like Bollinger Bands and ATR help assess the intensity of market movements.
+Volume Confirmation: Indicators like OBV are used to confirm whether price movements are supported by increasing volume, giving them more validity.
+Buy/Sell Signals: Technical indicators are often used in conjunction to provide buy or sell signals. For example, a combination of MACD crossovers with RSI could signal a potential trade setup.
+Limitations of Technical Indicators:
+Lagging Nature: Some indicators, especially moving averages, are based on historical data and may lag behind the current price action.
+False Signals: In periods of low volatility or sideways markets, indicators can generate false signals, leading to incorrect buy or sell decisions.
+Subjectivity: Different traders may interpret the same indicator differently based on their trading style or time frame.
+Conclusion:
+Technical indicators are essential tools for traders aiming to understand market dynamics through past price and volume data. While they are powerful, they work best when combined with other forms of analysis and risk management strategies. Different indicators serve different purposes, from identifying trends to gauging momentum, volatility, and volume activity.
+
+
+
+
+
+
+

@@ -103,6 +103,22 @@ Tried to answer proposed Questions/Topic section
 
 Organized Git Repo(Need to add files above)
 
+Moral Support
+
+**Wednesday, September 3rd 
+
+Updated Instructor Notes
+
+Worked in parralel to calculate MA, Percent Change
+
+Created Binaries for Percent Change, Ticker, and Sub-sector, as well as Date Format.
+
+Worked in parralel to analyze Technical Indicators
+
+Graph code is in the Jupyter Notebook folder
+
+Graphical outputs exported to the DATA_OUTPUTS, GRAPHS_CHARTS, TECHNICAL_OUTPUTS Folder
+
 
 
 

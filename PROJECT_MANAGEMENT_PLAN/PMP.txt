@@ -20,11 +20,11 @@ CREATE A PIPELINE VIA JUPYTER TO STREAMLINE PROCESS
 
 
 
-**3.) DATA PROCESSING AND FORMATTING
+**3.) DATA PROCESSING AND FORMATTING(IN PROGRESS/HAVE TO COMPLETE THIS INDEPENDENTLY)
 
 
 
-CONCATENATE SUB SECTOR DATASETS INTO A COMPREHENSIVE .CSV FILE(GHOST)
+CONCATENATE SUB SECTOR DATASETS INTO A COMPREHENSIVE .CSV FILE(GHOST)(IN PROGRESS)
 
 CALCULATE PERCENT CHANGE AS A BINARY AND ADD AS A COLUMN/FEATURE TO COMPREHENSIVE .CSV
 
@@ -34,6 +34,7 @@ SCALE DATA
 
 CREATE A TRAIN/TEST/SPLIT
 
+(COMPLETED, BUT ONLY WITH IT SECTOR DATA)
 
 
 **4.) DATA ANALYSIS
@@ -46,15 +47,15 @@ CONSIDER:
 
 **Logistic Regression: 
 
-Since you've already calculated the percentage change as a binary (likely representing if the stock will go up or down), Logistic Regression is a straightforward choice. It's particularly useful for binary classification problems and will help you understand the relationship between your features (e.g., moving averages) and the binary target.
+Since we've already calculated the percentage change as a binary (likely representing if the stock will go up or down), Logistic Regression is a straightforward choice. It's particularly useful for binary classification problems and will help us understand the relationship between your features (e.g., moving averages) and the binary target.
 
 **Support Vector Machines (SVM): 
 
-SVMs are good for classification tasks, especially when the data isn't linearly separable. They can capture more complex relationships in your data, especially if you use kernel tricks (like the RBF kernel). SVMs might give you a more nuanced decision boundary compared to Logistic Regression.
+SVMs are good for classification tasks, especially when the data isn't linearly separable. They can capture more complex relationships in your data, especially if we use kernel tricks (like the RBF kernel). SVMs might give you a more nuanced decision boundary compared to Logistic Regression.
 
 **Random Forest: 
 
-This is an ensemble method that works well for classification tasks and can handle a large number of features. It’s robust to overfitting, especially with a lot of data, and can give you insights into feature importance, which is useful for understanding what drives stock price changes.
+This is an ensemble method that works well for classification tasks and can handle a large number of features. It’s robust to overfitting, especially with a lot of data, and can give us insights into feature importance, which is useful for understanding what drives stock price changes.
 
 **K-Nearest Neighbors (KNN): 
 
@@ -67,15 +68,15 @@ These are more advanced ensemble techniques that often perform well in predictiv
 
 **Model Selection and Training: 
 
-Choose a few of these models to train on your data. Start with simpler models like Logistic Regression and KNN as baselines and then move on to more complex models like Random Forest and Gradient Boosting.
+We should choose a few of these models to train on your data. We should start with simpler models like Logistic Regression and KNN as baselines and then move on to more complex models like Random Forest and Gradient Boosting.
 
 **Model Evaluation: 
 
-After training, evaluate your models using metrics like accuracy, precision, recall, F1 score, and ROC-AUC, depending on what you find most relevant. Cross-validation can also be a good technique to ensure your model generalizes well.
+After training, we should evaluate our models using metrics like accuracy, precision, recall, F1 score, and ROC-AUC, depending on what you find most relevant. Cross-validation can also be a good technique to ensure our model generalizes well.
 
 **Feature Engineering: 
 
-Consider adding more features if you think it could help. For example, you might include technical indicators like RSI, Bollinger Bands, or MACD.
+Consider adding more features if you think it could help. For example, we might include technical indicators like RSI, Bollinger Bands, or MACD.
 
 **Hyperparameter Tuning: 
 
@@ -87,7 +88,7 @@ Look at feature importance from models like Random Forest or XGBoost to understa
 
 
 
-**5.) DATA VISUALIZATION
+**5.) DATA VISUALIZATION(COMPLETED)
 
 
 

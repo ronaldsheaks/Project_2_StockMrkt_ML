@@ -128,6 +128,9 @@ Ran ML Models for IT Sector Stock Data
 Ran ML Models for Symbols/Tickers seperately, AAPL, GOOGL, ANET....
 Generated Confusion Matrices
 
+**Wednesday, Septemeber 11th
+
+Organized Folder Structure, and Worked on Presentation
 
 
 

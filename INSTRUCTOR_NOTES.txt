@@ -28,6 +28,8 @@ Back test…Time Series, inflection
 
 Recent data for Nvidia types..
 
+
+
 Do we randomize? 
 
 Standardize $ value
@@ -116,6 +118,18 @@ False Signals: In periods of low volatility or sideways markets, indicators can 
 Subjectivity: Different traders may interpret the same indicator differently based on their trading style or time frame.
 Conclusion:
 Technical indicators are essential tools for traders aiming to understand market dynamics through past price and volume data. While they are powerful, they work best when combined with other forms of analysis and risk management strategies. Different indicators serve different purposes, from identifying trends to gauging momentum, volatility, and volume activity.
+
+Monday, September 9th
+
+rf_importances = rf.feature_importances_
+rf_importances
+# Features used in the models (same for all models in this case)
+features = ['TimeSpentOnCourse', 'NumberOfVideosWatched', 'NumberOfQuizzesTaken', 
+            'QuizScores', 'CompletionRate', 'CourseCategory', 'DeviceType']
+
+Bin variables....
+
+Linear Relationship
 
 
 

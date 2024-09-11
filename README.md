@@ -119,6 +119,18 @@ Graph code is in the Jupyter Notebook folder
 
 Graphical outputs exported to the DATA_OUTPUTS, GRAPHS_CHARTS, TECHNICAL_OUTPUTS Folder
 
+**Thursday, September 4th
+
+Ran ML Models for IT Sector Stock Data
+
+**Monday, Septemebr 9th
+
+Ran ML Models for Symbols/Tickers seperately, AAPL, GOOGL, ANET....
+Generated Confusion Matrices
+
+
+
+
 
 
 
